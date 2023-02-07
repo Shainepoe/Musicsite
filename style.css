@@ -128,7 +128,7 @@ section {
 }
 .image2{
     background:white url(./sax.png);
-    border-top-left-radius: 5px;
+    border-top-left-radius: 4px;
     width: 100%;
     border-top-right-radius: 5px;
     background-size: contain;background-repeat: no-repeat;
